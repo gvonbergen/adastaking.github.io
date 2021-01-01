@@ -1,4 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
+title: adastaking.ch
 aux_links:
   "Cardano":
     - "https://cardano.org/"
@@ -13,6 +14,6 @@ collections:
 just_the_docs:
   collections:
     pool:
-      name: HELVX Pool
+      name: Der HELVX Pool
     beginners:
       name: Beginner
