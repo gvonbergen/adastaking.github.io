@@ -7,7 +7,12 @@ collections:
   pool:
     permalink: "/:collection/:path/"
     output: true
+  beginners:
+    permalink: "/:collection/:path/"
+    output: true
 just_the_docs:
   collections:
     pool:
-      name: HELV Staking Pool
+      name: HELVX Pool
+    beginners:
+      name: Beginner
