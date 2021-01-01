@@ -3,3 +3,11 @@ aux_links:
   "Cardano":
     - "https://cardano.org/"
 ga_tracking: G-VCF6QWJQLV
+collections:
+  pool:
+    permalink: "/:collection/:path/"
+    output: true
+just_the_docs:
+  collections:
+    pool:
+      name: HELV Staking Pool
