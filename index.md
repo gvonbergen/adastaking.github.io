@@ -21,5 +21,8 @@ Mit unseren Cardano-Pools decken wir einen Teil der Kosten für diese Webseite u
 ### Cardano / ADA
 Dies ist unsere Wissens-Sektion mit allen Tips & Tricks zum Thema Cardano und informativen beiträgen zu Themen, welche wir oft als Fragen bei uns sehen.
 
+### Stake Pool Betreiber
+Anleitungen für andere Stake Pool Betreiber, wie wir unsere Infrastruktur auf Kubernetes aufgesetzt haben, welches heute der defacto Standard im Hosting-Bereich ist und wesentliche Vorteile bringt (z.B. Automatisierung)
+
 ### Glossar
 Ist eine partielle Übersetzung des Originals von der offiziellen Cardano-Webseite. Damit hast du die Fremdwörter, welche du teilweise in der Welt der Crypto-Währungen auffindest im Griff.

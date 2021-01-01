@@ -11,6 +11,9 @@ collections:
   cardano:
     permalink: "/:collection/:path/"
     output: true
+  poolbetreiber:
+    permalink: "/:collection/:path/"
+    output: true
   glossar:
     permalink: "/:collection/:path/"
     output: true
@@ -20,5 +23,7 @@ just_the_docs:
       name: Der HELV* Pool
     cardano:
       name: Cardano / ADA
+    poolbetreiber:
+      name: Stake Pool Betreiber
     glossar:
       name: Glossar
