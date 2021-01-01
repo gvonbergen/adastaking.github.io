@@ -3,11 +3,11 @@ title: Deutschsprachiger Cardano (ADA) Pool für Crypto-Einsteiger
 description: Erlerne alles, was du für deinen Einstieg in die Cardano(ADA)-Welt benötigst und beginne heute in Crypto-Währungen zu investieren
 # image
 # author
-locale: de
+lang: de
 ---
 # HELV - Dein Deutschsprachiger Cardano Pool für Crypto-Einsteiger
 
-Cardano ist mit über 5 Milliarden USD Marketkapitalisierung unter den Top 10 Crypto-Währungen, welche Analog zu Ethereum das Ziel hat eine umfassende Finanz-Ecosphäre aufzubauen. Das beudeutet, dass zukünftig Bankgeschäfte wie Zahlungen, Kredite, Investitionen und viele weitere Produkte dezentralisiert in einer BlockChain zur verfügung stehen werden.
+Cardano ist mit über 5 Milliarden USD Marketkapitalisierung unter den Top 10 Crypto-Währungen. Analog zu Ethereum hat das Projekt das Ziel hat eine umfassende Finanz-Ecosphäre aufzubauen. Das beudeutet, dass zukünftig Bankgeschäfte wie Zahlungen, Kredite, Investitionen und viele weitere Produkte dezentralisiert in einer BlockChain zur verfügung stehen werden.
 
 Auf Adastaking.ch zeigen wir dir, wie du rasch beginnen kannst in die Krypto-Währung Cardano (ADA) zu investieren. Du erlernst die Grundlagen von Wallets, wo du Cardano erwerben kannst und auch wie due passives Einkommen generierst.
 
