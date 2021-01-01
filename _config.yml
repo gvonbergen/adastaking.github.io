@@ -8,12 +8,17 @@ collections:
   pool:
     permalink: "/:collection/:path/"
     output: true
-  beginners:
+  cardano:
+    permalink: "/:collection/:path/"
+    output: true
+  glossar:
     permalink: "/:collection/:path/"
     output: true
 just_the_docs:
   collections:
     pool:
-      name: Der HELVX Pool
-    beginners:
-      name: Beginner
+      name: Der HELV* Pool
+    cardano:
+      name: Cardano / ADA
+    glossar:
+      name: Glossar
